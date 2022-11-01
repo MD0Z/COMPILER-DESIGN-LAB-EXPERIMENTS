@@ -19,5 +19,5 @@ a+(a*a)\
 a.exe\
 a++a\
 \
-![github-small]()
+![github-small](https://github.com/MD0Z/COMPILER-DESIGN-LAB-EXPERIMENTS/blob/main/Recursive%20descent%20parser/OUTPUT.PNG?raw=true)
 -------------------
